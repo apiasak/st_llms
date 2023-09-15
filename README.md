@@ -1,8 +1,11 @@
 # 📦 Streamlit App Starter Kit Run the code
 
+### ติดตั้ง Lib
+```pip install streamlit openai```
+
 ### Run the code
 
 ```
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
